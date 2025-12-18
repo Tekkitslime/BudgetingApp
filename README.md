@@ -1,1 +1,2 @@
-# BudgetingApp\nA simple budgeting app written in C.
+# BudgetingApp
+A simple budgeting app written in C.
